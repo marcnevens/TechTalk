@@ -12,7 +12,7 @@
 
 What's up next ... 
 
-Find the presentation [here](https://github.com/marcnevens/TechTalk/blob/main/How%20to%20become%20a%20Freelancer.pdf)
+**Find the presentation [here](https://github.com/marcnevens/TechTalk/blob/main/How%20to%20become%20a%20Freelancer.pdf)**
 
 
 Some Usefull links about my presentation:
