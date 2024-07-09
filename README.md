@@ -22,6 +22,6 @@ Some Usefull links about my presentation:
 - Prestarter Traject "Jumpstarters" [here](https://jumpstarters.be/)
 - Starterslabo [here](https://starterslabo.be/)
 - Explore the feasibility of your plans [here](https://www.vlaio.be/nl/begeleiding-advies/start/voorbereiding-van-je-opstart/onderzoek-de-haalbaarheid-van-je-plannen)
-- Different funds [hero](https://www.vdab.be/jobs/ondernemer-worden/geld)
+- Different funds [here](https://www.vdab.be/jobs/ondernemer-worden/geld)
 
 > If you need help, please contact me.
